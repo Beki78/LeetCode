@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/Beki78/LeetCode/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/Beki78/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1894-merge-strings-alternately](https://github.com/Beki78/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Beki78/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Enumeration
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Beki78/LeetCode/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/Beki78/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Beki78/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1894-merge-strings-alternately](https://github.com/Beki78/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
