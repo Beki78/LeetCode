@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Beki78/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Beki78/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Beki78/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Beki78/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Beki78/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Beki78/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Counting
 |  |
 | ------- |
