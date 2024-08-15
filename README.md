@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/Beki78/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Beki78/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Beki78/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2714-left-and-right-sum-differences](https://github.com/Beki78/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Beki78/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -88,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Beki78/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [2714-left-and-right-sum-differences](https://github.com/Beki78/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
