@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Beki78/LeetCode/tree/master/0169-majority-element) |
 | [0682-baseball-game](https://github.com/Beki78/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Beki78/LeetCode/tree/master/0739-daily-temperatures) |
+| [1019-squares-of-a-sorted-array](https://github.com/Beki78/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1044-find-common-characters](https://github.com/Beki78/LeetCode/tree/master/1044-find-common-characters) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Beki78/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Beki78/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/Beki78/LeetCode/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/Beki78/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1019-squares-of-a-sorted-array](https://github.com/Beki78/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Beki78/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Beki78/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Enumeration
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Beki78/LeetCode/tree/master/0169-majority-element) |
+| [1019-squares-of-a-sorted-array](https://github.com/Beki78/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Beki78/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
