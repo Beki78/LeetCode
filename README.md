@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Beki78/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Beki78/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Beki78/LeetCode/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Beki78/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/Beki78/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Beki78/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Beki78/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Beki78/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Beki78/LeetCode/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Beki78/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1044-find-common-characters](https://github.com/Beki78/LeetCode/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Beki78/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/Beki78/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Beki78/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Beki78/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
