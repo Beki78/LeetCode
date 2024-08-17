@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Beki78/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/Beki78/LeetCode/tree/master/0169-majority-element) |
 | [0682-baseball-game](https://github.com/Beki78/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Beki78/LeetCode/tree/master/0739-daily-temperatures) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Beki78/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Beki78/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Beki78/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Beki78/LeetCode/tree/master/0392-is-subsequence) |
