@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Beki78/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Beki78/LeetCode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/Beki78/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/Beki78/LeetCode/tree/master/1044-find-common-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Beki78/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Beki78/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Beki78/LeetCode/tree/master/0383-ransom-note) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Beki78/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Beki78/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Beki78/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Beki78/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Beki78/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Beki78/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Beki78/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Beki78/LeetCode/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/Beki78/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/Beki78/LeetCode/tree/master/0874-backspace-string-compare) |
