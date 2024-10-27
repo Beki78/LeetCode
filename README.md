@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Beki78/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Beki78/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Beki78/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Beki78/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Beki78/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Beki78/LeetCode/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/Beki78/LeetCode/tree/master/0228-summary-ranges) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Beki78/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Beki78/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Beki78/LeetCode/tree/master/0078-subsets) |
 | [2427-first-letter-to-appear-twice](https://github.com/Beki78/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 ## Monotonic Stack
 |  |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Beki78/LeetCode/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Beki78/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
