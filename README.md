@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Beki78/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Beki78/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Beki78/LeetCode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/Beki78/LeetCode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/Beki78/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/Beki78/LeetCode/tree/master/1044-find-common-characters) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Beki78/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Beki78/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Beki78/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Beki78/LeetCode/tree/master/0202-happy-number) |
 | [1635-number-of-good-pairs](https://github.com/Beki78/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Beki78/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Counting
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Beki78/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Beki78/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Beki78/LeetCode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Beki78/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Beki78/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Beki78/LeetCode/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Beki78/LeetCode/tree/master/0874-backspace-string-compare) |
